@@ -62,13 +62,6 @@ A carbon emission tracking platform that helps users monitor and analyze their t
 - DevOps
 
 ---
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Venu-R&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venu-R&layout=compact)
-
 ---
 
 ## Contact Info
