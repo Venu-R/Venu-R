@@ -62,7 +62,6 @@ A carbon emission tracking platform that helps users monitor and analyze their t
 - DevOps
 
 ---
----
 
 ## Contact Info
 
