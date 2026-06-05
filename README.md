@@ -1,4 +1,3 @@
-```md
 # Hi there, I'm Venu 
 
 Information Science Engineering Student
