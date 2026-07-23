@@ -33,7 +33,6 @@ A carbon emission tracking platform that helps users monitor and analyze their t
 ### Languages
 - Java
 - C
-- Python
 - JavaScript
 - SQL
 
