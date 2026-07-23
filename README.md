@@ -6,8 +6,6 @@ Information Science Engineering Student
 
 - Full-Stack Web Development
 - Cybersecurity & Network Security
-- Machine Learning
-- Software Development
 - Problem Solving
 
 ---
